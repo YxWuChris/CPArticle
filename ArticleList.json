@@ -6,10 +6,15 @@
 		"link":"/articles/ReportTax"
 	},
 	{
-		"title":"アメリカで最も安く、信頼できる郵送方法",
+		"title":"アメリカで最も安く、信頼できる郵送方法(上)",
 		"subTitle":"米国の配送",
 		"img":"https://www.thepostcoach.com/media/images/uploads/shutterstock_166154852.jpg",
 		"link":"/articles/Shipping1"
-
+	},
+	{
+		"title":"アメリカで最も安く、信頼できる郵送方法(下)",
+		"subTitle":"米国の配送",
+		"img":"https://turbobeds.com/image/data/new%20images/free-delivery-usa.jpg",
+		"link":"/articles/Shipping2"
 	}
 ]
