@@ -5,7 +5,7 @@
 		"img":"https://i.guim.co.uk/img/media/32e9869ed021117650176c0da473f134fcbe65a3/0_166_5000_3002/master/5000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=30b15f98c1df58ad88bd3b0e649610f8",
 		"link":"/articles/ReportTax",
 		"source_link":"https://raw.githubusercontent.com/YxWuChris/CPArticle/master/TaxReturn.html",
-		"router":"ReportTax"
+		"router":"ReportTax2"
 	},
 	{
 		"title":"アメリカで最も安く、信頼できる郵送方法(上)",
@@ -13,7 +13,7 @@
 		"img":"https://www.thepostcoach.com/media/images/uploads/shutterstock_166154852.jpg",
 		"link":"/articles/Shipping1",
 		"source_link":"https://raw.githubusercontent.com/YxWuChris/CPArticle/master/shipping1.html",
-		"router":"Shipping1"
+		"router":"Shipping12"
 	},
 	{
 		"title":"アメリカで最も安く、信頼できる郵送方法(下)",
@@ -21,6 +21,6 @@
 		"img":"https://turbobeds.com/image/data/new%20images/free-delivery-usa.jpg",
 		"link":"/articles/Shipping2",
 		"source_link":"https://raw.githubusercontent.com/YxWuChris/CPArticle/master/shipping2.html",
-		"router":"Shipping2"
+		"router":"Shipping22"
 	}
 ]
